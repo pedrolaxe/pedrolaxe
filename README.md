@@ -1,13 +1,13 @@
 ### PT-BR
-Desenvolvedor de software apaixonado por TI, com amplo conhecimento em desenvolvimento de webapps com Javascript (ReactJS/Typescript), bancos de dados (MySql/MongoDB) e CI/CD. (Gitlab e Github Actions).\
-Tenho um grande conhecimento com instalação de servidores de  Linux (Debian/Ubuntu).\
-Já trabalhei com desenvolvimentos de temas e plugins de Wordpress com PHP.
+Sou um desenvolvedor Full Stack, tenho bastante conhecimento em Javascript/Typescript, gosto de atuar tanto com front end, quanto em back end.
+No front-end sou apaixonado por ReactJS e no backend NodeJS.
+
+Acredito que sempre é um novo dia para aprender algo e me manter atualizado.
 
 ### EN
-Software developer passionate about IT, with extensive knowledge in webapp development with Javascript (ReactJS/Typescript), databases (MySql/MongoDB) and CI/CD. (Gitlab and Github Actions).\
-I have a great knowledge of installing Linux servers (Debian/Ubuntu).\
-I've worked with WordPress theme and plugin development with PHP.
+I'm a Full Stack developer, I have a lot of knowledge in Javascript/Typescript, I like to work with both front end and back end.
+On the front end I'm passionate about ReactJS and on the backend NodeJS.
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=pedrolaxe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/pedrolaxe)
+I believe it's always a new day to learn something and keep up to date.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolaxe)
